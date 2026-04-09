@@ -1,5 +1,6 @@
 # 💫 About Me:
 Working on Scropbox for windows <br>a site<br>learning to dev for linux distros
+<br> You can contact me on discord : revalens.k
 
 
 # 💻 Tech Stack:
