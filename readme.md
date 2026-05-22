@@ -1,5 +1,5 @@
 # About Me:
-Working on Scropbox for windows <br>a site<br>learning to dev for linux distros
+learning to dev for enhance my linux experience
 <br> You can contact me on discord : <strong> revalens.k </strong>
 
 
